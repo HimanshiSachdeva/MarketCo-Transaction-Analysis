@@ -1,4 +1,4 @@
-# MIS784 - MarketCo Transaction Analysis
+# MarketCo Transaction Analysis
 
 This repository contains the analysis and report for **MIS784 Assignment 1**, where I analyzed customer behavior and sales performance for **MarketCo**, an omnichannel retailer.
 
