@@ -1,0 +1,501 @@
+InvoiceNo,StockCode,Description,Quantity,InvoiceDate,UnitPrice,Discount,PaymentMethod,ShippingCost,SalesChannel,ReturnStatus,ShipmentProvider,WarehouseLocation,OrderPriority,UserID,Age,Gender,UserCountry
+900186,SKU_1095,Headphones,24,28/09/2020,67.02,0.09,Bank Transfer,24.99,In-store,Not Returned,DHL,,High,2524,59,Male,Brazil
+789129,SKU_1114,T-shirt,41,20/04/2021,88.2,0.47,Bank Transfer,10.81,In-store,Not Returned,DHL,,High,6744,63,Female,France
+401841,SKU_1969,T-shirt,13,09/05/2021,38.26,0.42,Credit Card,22.84,Online,Not Returned,DHL,,Low,8823,25,Female,Italy
+684668,SKU_1769,T-shirt,19,20/06/2021,72.02,0.17,Bank Transfer,5.58,In-store,Not Returned,DHL,,High,6986,39,Female,Brazil
+692237,SKU_1603,Notebook,18,08/07/2022,24.51,0.11,Credit Card,8.28,In-store,Not Returned,DHL,,Medium,5266,29,Female,Germany
+955795,SKU_1280,Backpack,23,09/04/2021,98.11,0.25,Bank Transfer,22.78,Online,Not Returned,DHL,,Medium,6820,51,Female,India
+886719,SKU_1921,Notebook,18,09/04/2022,5.35,0.1,paypall,20.79,In-store,Returned,DHL,,High,6907,68,Male,Germany
+919798,SKU_1131,White Mug,16,25/05/2023,77.53,0.37,Credit Card,22.14,In-store,Not Returned,DHL,,High,155,22,Female,United Kingdom
+980910,SKU_1473,Wireless Mouse,40,28/02/2023,85.34,0.21,Bank Transfer,5.55,In-store,Not Returned,DHL,,Medium,4895,72,Male,Spain
+719675,SKU_1952,Wall Clock,42,05/02/2020,65.42,0.04,Credit Card,21.68,Online,Not Returned,DHL,,Medium,1553,68,Female,Mexico
+853689,SKU_1665,Wall Clock,12,06/06/2023,24.5,0.08,Credit Card,5.85,Online,Not Returned,DHL,,Low,7962,74,Female,South Korea
+331106,SKU_1457,Wireless Mouse,19,19/05/2022,5.79,0.2,Credit Card,23.42,Online,Not Returned,DHL,,High,9144,45,Male,Saudi Arabia
+158334,SKU_1036,Blue Pen,25,26/10/2021,26.8,0.48,Credit Card,28.57,Online,Not Returned,DHL,,Low,4954,54,Female,Saudi Arabia
+648912,SKU_1838,Wireless Mouse,42,20/12/2020,93.77,0.37,Credit Card,15.62,Online,Not Returned,DHL,,Low,2635,43,Female,Italy
+891893,SKU_1107,Desk Lamp,7,05/10/2020,42.1,0.26,paypall,9.26,Online,Not Returned,DHL,,Low,8887,46,Male,Japan
+616391,SKU_1025,Notebook,27,16/09/2023,59.07,0.48,paypall,17.82,Online,Not Returned,DHL,,Medium,3099,43,Female,France
+951756,SKU_1904,Desk Lamp,39,15/10/2022,3.1,0.28,Credit Card,7.92,In-store,Not Returned,DHL,,Medium,2075,62,Female,South Korea
+693510,SKU_1780,Office Chair,18,29/09/2021,8.19,0.38,Credit Card,27.47,Online,Not Returned,DHL,,Low,8990,63,Female,United States
+279208,SKU_1449,Headphones,13,23/05/2020,76.42,0.45,Credit Card,9.62,Online,Not Returned,DHL,,Low,7942,22,Male,India
+244771,SKU_1014,T-shirt,33,08/12/2023,97.46,0.02,paypall,18.47,Online,Not Returned,DHL,,Medium,8610,56,Female,Mexico
+590553,SKU_1656,Wireless Mouse,20,03/11/2021,54.72,0.25,paypall,5.91,In-store,Not Returned,DHL,,High,1877,53,Female,Russia
+174539,SKU_1602,Desk Lamp,1,12/01/2024,91.89,0.23,paypall,27.05,Online,Not Returned,DHL,,High,3794,19,Female,Sweden
+251094,SKU_1646,Wall Clock,34,15/01/2022,8.8,0.16,Bank Transfer,27.27,Online,Returned,DHL,,Low,7032,58,Female,Sweden
+938989,SKU_1203,Desk Lamp,9,04/07/2023,23.65,0.49,Bank Transfer,21.19,Online,Not Returned,DHL,,Low,9940,55,Female,Germany
+907630,SKU_1904,Notebook,10,25/12/2021,92.11,0.36,Bank Transfer,29.28,Online,Not Returned,DHL,,Low,1479,41,Female,Mexico
+997151,SKU_1808,Wireless Mouse,14,03/02/2023,20.47,0.32,Bank Transfer,25.13,Online,Not Returned,DHL,,Medium,3260,39,Female,Germany
+997561,SKU_1314,Notebook,11,11/07/2022,5.11,0.28,paypall,20.63,Online,Not Returned,DHL,,Medium,898,21,Male,Australia
+904631,SKU_1869,USB Cable,21,30/01/2020,11.31,0.28,Bank Transfer,22.35,In-store,Not Returned,DHL,,Low,6079,16,Female,Saudi Arabia
+564495,SKU_1810,Headphones,27,28/10/2023,9.63,0.17,Bank Transfer,21.77,In-store,Not Returned,DHL,,Medium,9245,75,Female,Spain
+107691,SKU_1235,Blue Pen,11,13/11/2020,34.18,0.03,Bank Transfer,8.46,Online,Not Returned,DHL,,Medium,4954,24,Female,Canada
+884487,SKU_1869,T-shirt,42,01/11/2023,47.9,0.12,Credit Card,25.97,In-store,Returned,DHL,,Low,7420,62,Female,Canada
+577959,SKU_1626,Notebook,17,21/02/2021,9.94,0.31,paypall,26.25,In-store,Not Returned,DHL,,Low,1197,37,Female,France
+792502,SKU_1226,Headphones,1,09/06/2021,67.63,0.46,Bank Transfer,19.29,Online,Not Returned,DHL,,Low,3457,73,Male,Russia
+739327,SKU_1954,Wireless Mouse,13,18/03/2021,92.87,0.3,paypall,27.39,Online,Returned,DHL,,High,8486,74,Female,Sweden
+510925,SKU_1964,Blue Pen,7,12/07/2020,67.77,0.15,Bank Transfer,18.12,Online,Not Returned,DHL,,High,8329,27,Female,South Korea
+573662,SKU_1162,Backpack,29,25/07/2023,16.24,0.44,paypall,28.9,Online,Not Returned,DHL,,Low,8515,29,Female,United States
+692251,SKU_1710,Wireless Mouse,45,10/05/2023,52.08,0.48,Credit Card,27.55,In-store,Not Returned,DHL,,Low,1978,55,Female,United States
+803714,SKU_1775,Backpack,19,07/10/2020,54.66,0.47,paypall,21.01,Online,Not Returned,DHL,,Low,2951,36,Female,United Kingdom
+282482,SKU_1822,Wall Clock,32,13/03/2022,60.63,0.49,paypall,19.69,Online,Not Returned,DHL,,High,4962,43,Female,Mexico
+215310,SKU_1635,Desk Lamp,20,18/12/2021,75.08,0.13,Credit Card,27.07,In-store,Not Returned,DHL,,Low,5203,16,Female,Sweden
+190254,SKU_1288,Backpack,32,03/10/2023,96.77,0.38,paypall,16.41,Online,Not Returned,DHL,,High,8241,20,Male,Netherlands
+192874,SKU_1066,Desk Lamp,28,11/11/2023,38.09,0.33,Credit Card,16.66,Online,Not Returned,DHL,,Low,4944,37,Male,South Korea
+975952,SKU_1808,White Mug,40,24/11/2022,24.48,0.16,Credit Card,11.74,In-store,Not Returned,DHL,,Medium,8956,57,Female,South Africa
+137690,SKU_1134,Notebook,29,22/12/2023,13.49,0.02,paypall,5.83,Online,Not Returned,DHL,,Low,761,47,Female,United States
+758402,SKU_1765,USB Cable,31,26/11/2022,12.5,0.1,paypall,29.56,Online,Returned,DHL,,Medium,9341,65,Female,United Kingdom
+403078,SKU_1076,Blue Pen,13,03/05/2023,38.69,0.29,Credit Card,20.63,Online,Not Returned,DHL,,Medium,9623,57,Female,India
+785728,SKU_1221,Headphones,17,06/03/2024,2.42,0.1,Bank Transfer,28.95,In-store,Not Returned,DHL,,High,4015,35,Female,Italy
+358329,SKU_1645,Office Chair,28,31/07/2021,91.44,0.05,Bank Transfer,6.32,Online,Not Returned,DHL,,Low,322,34,Male,South Korea
+225409,SKU_1068,Desk Lamp,48,14/06/2021,61.16,0.11,Credit Card,15.7,Online,Returned,DHL,,Low,8899,28,Female,Japan
+370873,SKU_1771,T-shirt,3,22/06/2023,74.49,0.45,paypall,27.71,In-store,Not Returned,DHL,,Medium,2493,53,Male,Australia
+990238,SKU_1979,Wireless Mouse,12,23/02/2022,89.78,0.38,paypall,11.93,In-store,Not Returned,DHL,,High,1635,59,Female,South Korea
+243867,SKU_1394,Wireless Mouse,1,19/06/2020,46.51,0.15,Bank Transfer,16.85,In-store,Not Returned,DHL,,High,9891,73,Female,China
+976821,SKU_1585,Wireless Mouse,28,23/03/2024,79.28,0.34,Credit Card,21.78,In-store,Not Returned,DHL,,High,7300,23,Female,Japan
+870488,SKU_1542,USB Cable,49,16/07/2023,89.59,0.06,Credit Card,22.42,In-store,Not Returned,DHL,,High,2390,50,Male,Russia
+607704,SKU_1318,Wireless Mouse,19,05/06/2020,62.53,0.3,Bank Transfer,13.77,Online,Not Returned,DHL,,Medium,2374,26,Female,Australia
+332686,SKU_1240,T-shirt,46,05/07/2022,42.72,0.24,Credit Card,7.15,In-store,Not Returned,DHL,,Medium,5864,48,Female,Netherlands
+202169,SKU_1638,USB Cable,45,25/08/2020,84.22,0.32,Bank Transfer,29.92,In-store,Not Returned,DHL,,Low,2085,55,Female,Netherlands
+870018,SKU_1309,Notebook,49,24/06/2020,91.28,0.23,paypall,15.05,In-store,Not Returned,DHL,,Medium,244,37,Female,South Africa
+885216,SKU_1227,Wireless Mouse,29,25/09/2022,85.99,0.5,paypall,14.38,Online,Not Returned,DHL,,Low,1516,52,Female,United Kingdom
+574092,SKU_1713,Blue Pen,21,03/09/2022,35.87,0.18,Credit Card,12.33,In-store,Not Returned,DHL,,High,5527,61,Male,Brazil
+821754,SKU_1007,Notebook,11,18/01/2024,12.59,0.31,paypall,21.03,In-store,Not Returned,DHL,,Medium,5398,14,Female,Turkey
+524001,SKU_1037,T-shirt,29,21/04/2021,71.44,0.19,Credit Card,19.26,Online,Not Returned,DHL,,High,6482,64,Female,South Korea
+402754,SKU_1077,Notebook,44,30/04/2020,46.67,0.48,Credit Card,14.85,In-store,Not Returned,DHL,,Low,511,69,Male,China
+800800,SKU_1295,Headphones,10,31/01/2024,40.32,0.36,Bank Transfer,13.72,Online,Not Returned,DHL,,Medium,5770,45,Female,Italy
+445740,SKU_1952,Wall Clock,9,05/05/2023,78.81,0.04,Bank Transfer,12.68,Online,Not Returned,DHL,,Medium,3093,72,Female,Russia
+658549,SKU_1214,Wireless Mouse,46,03/02/2024,93.11,0.29,Credit Card,21.99,In-store,Not Returned,DHL,,Low,872,65,Female,Germany
+195081,SKU_1639,T-shirt,29,23/09/2023,46.97,0.34,Bank Transfer,10.44,Online,Not Returned,DHL,,Medium,4889,75,Female,United States
+186298,SKU_1412,Wall Clock,14,01/08/2020,91.74,0.4,Bank Transfer,24.53,Online,Not Returned,DHL,,Low,9067,17,Female,Italy
+374349,SKU_1972,USB Cable,9,12/03/2023,92.32,0.2,Credit Card,6.72,Online,Not Returned,DHL,,High,7211,33,Female,Italy
+765593,SKU_1448,USB Cable,14,08/05/2021,61.21,0.11,Credit Card,6.89,In-store,Returned,DHL,,Low,9373,32,Male,Japan
+428822,SKU_1154,USB Cable,22,21/05/2022,20.72,0.46,Bank Transfer,6.72,In-store,Returned,DHL,,Low,7790,56,Female,Spain
+672959,SKU_1632,Office Chair,6,06/10/2023,53.54,0.32,Credit Card,26.38,Online,Not Returned,DHL,,Medium,9826,14,Female,Canada
+619466,SKU_1884,Notebook,46,25/07/2022,52.52,0.49,paypall,10.55,In-store,Not Returned,DHL,,Low,3563,29,Female,Canada
+798447,SKU_1887,Office Chair,24,14/10/2022,9.5,0.31,paypall,14.12,In-store,Not Returned,DHL,,High,7306,67,Female,Mexico
+409982,SKU_1421,Office Chair,18,15/03/2024,85.73,0.27,Bank Transfer,16.83,In-store,Not Returned,DHL,,Low,1536,67,Female,Sweden
+639068,SKU_1386,USB Cable,33,11/07/2022,89.92,0.18,Bank Transfer,21.79,Online,Not Returned,DHL,,Medium,1597,67,Female,Sweden
+783245,SKU_1425,Wireless Mouse,13,23/11/2020,2.01,0.46,Bank Transfer,10.99,In-store,Not Returned,DHL,,Low,8956,33,Female,South Africa
+880644,SKU_1897,Office Chair,21,28/02/2020,46.73,0.24,paypall,21.16,In-store,Not Returned,DHL,,Medium,9388,69,Female,South Africa
+208878,SKU_1053,White Mug,26,03/02/2020,34.93,0.14,paypall,24.52,Online,Not Returned,DHL,,High,3752,64,Female,United States
+544942,SKU_1262,Notebook,18,22/01/2021,51.63,0.19,Credit Card,17.78,Online,Not Returned,DHL,,Medium,5090,56,Female,China
+828666,SKU_1226,Desk Lamp,11,14/06/2023,23.8,0.39,Credit Card,27.49,Online,Not Returned,DHL,,High,1358,28,Male,Italy
+886427,SKU_1991,Headphones,47,03/07/2023,73.23,0.45,Bank Transfer,16.4,In-store,Not Returned,DHL,,Medium,1015,51,Male,Russia
+396351,SKU_1023,Headphones,49,27/05/2024,79.1,0.15,paypall,19.53,In-store,Not Returned,DHL,,High,7081,18,Male,Germany
+678725,SKU_1669,Desk Lamp,47,24/12/2022,63.04,0.2,Bank Transfer,28.53,Online,Returned,DHL,,Low,4229,33,Male,Netherlands
+885344,SKU_1918,Headphones,30,13/11/2023,20.94,0.08,Bank Transfer,14.39,In-store,Not Returned,DHL,,High,1324,70,Male,Saudi Arabia
+829071,SKU_1000,Wall Clock,1,14/10/2020,27.81,0.39,Bank Transfer,7.4,In-store,Not Returned,DHL,,Low,8749,50,Female,South Africa
+221701,SKU_1969,USB Cable,31,15/01/2020,31.44,0.25,paypall,13.56,In-store,Not Returned,DHL,,Medium,9401,41,Female,Japan
+387321,SKU_1826,Backpack,44,04/12/2023,88.13,0.13,Credit Card,8.45,In-store,Not Returned,DHL,,Low,1117,40,Male,Spain
+871272,SKU_1118,White Mug,48,20/07/2022,22.61,0.18,Bank Transfer,7.69,In-store,Not Returned,DHL,,Medium,4667,41,Female,Spain
+213604,SKU_1384,Backpack,10,13/07/2023,65.73,0.38,Bank Transfer,17.9,In-store,Returned,DHL,,High,5600,19,Female,Canada
+161665,SKU_1029,USB Cable,21,13/01/2021,43.73,0.07,Bank Transfer,14.39,Online,Not Returned,DHL,,High,141,69,Female,Canada
+730752,SKU_1688,T-shirt,6,17/03/2023,71.1,0.14,Credit Card,8.99,In-store,Not Returned,DHL,,Medium,7009,41,Male,Sweden
+228595,SKU_1150,Office Chair,4,11/11/2020,39.83,0.11,Bank Transfer,19.42,Online,Not Returned,DHL,,Low,5475,58,Female,Sweden
+500109,SKU_1475,Office Chair,45,20/02/2024,59.5,0.38,paypall,15.3,Online,Returned,DHL,,High,4143,69,Female,Netherlands
+529498,SKU_1509,Blue Pen,49,27/04/2021,67.71,0.33,paypall,8.59,In-store,Returned,DHL,,Medium,1129,32,Male,Saudi Arabia
+996414,SKU_1795,Notebook,11,12/01/2023,64.66,0.46,Bank Transfer,18.28,Online,Not Returned,DHL,,High,560,42,Female,United Kingdom
+433478,SKU_1413,Wireless Mouse,43,26/06/2021,17.17,0.04,paypall,13.9,In-store,Not Returned,DHL,,High,496,63,Female,United Kingdom
+681209,SKU_1833,Backpack,10,29/05/2022,59.31,0.2,paypall,21.83,In-store,Not Returned,DHL,,High,1618,18,Female,Japan
+730077,SKU_1723,White Mug,38,28/01/2020,83.3,0.07,paypall,10.21,In-store,Not Returned,DHL,,Low,1382,72,Female,France
+338067,SKU_1784,Headphones,31,19/03/2021,89.53,0.15,Bank Transfer,28.18,Online,Not Returned,DHL,,High,5586,62,Male,Netherlands
+574755,SKU_1635,Blue Pen,22,13/12/2021,75.9,0.09,Credit Card,15.65,Online,Not Returned,DHL,,High,3598,14,Female,South Korea
+536374,SKU_1647,Wall Clock,40,12/04/2024,83.59,0.1,Bank Transfer,19.24,Online,Not Returned,DHL,,Low,1179,67,Male,United States
+631972,SKU_1524,Notebook,4,08/04/2020,92.81,0.41,Bank Transfer,29.09,In-store,Not Returned,DHL,,Medium,6775,69,Male,United States
+762398,SKU_1739,Wall Clock,40,26/02/2024,5.41,0.41,paypall,29.2,Online,Returned,DHL,,Low,7826,57,Female,France
+462691,SKU_1438,T-shirt,29,25/02/2020,9.58,0.48,Bank Transfer,26.09,In-store,Not Returned,DHL,,High,3249,70,Male,Russia
+209950,SKU_1458,Desk Lamp,23,31/05/2023,38.27,0.26,paypall,18.94,Online,Not Returned,DHL,,High,1269,43,Male,Saudi Arabia
+890296,SKU_1409,USB Cable,8,17/06/2023,63.56,0.06,Bank Transfer,17.84,Online,Not Returned,DHL,,High,6827,58,Female,South Africa
+829063,SKU_1295,Wireless Mouse,26,23/06/2021,39.18,0.03,paypall,16.22,In-store,Not Returned,DHL,,Medium,2501,40,Female,India
+718871,SKU_1006,Wireless Mouse,43,14/02/2023,55.83,0,Bank Transfer,28.97,Online,Not Returned,DHL,,Medium,6521,28,Female,Canada
+246874,SKU_1292,Wall Clock,6,10/05/2021,26,0.46,Bank Transfer,17.81,Online,Not Returned,DHL,,Low,5386,19,Female,France
+368520,SKU_1533,Backpack,28,05/07/2022,77.67,0.24,Bank Transfer,15.85,Online,Not Returned,DHL,,Medium,1388,32,Female,Mexico
+709719,SKU_1393,Headphones,47,12/06/2024,40.96,0.44,paypall,23.5,In-store,Returned,DHL,,Medium,3231,51,Female,South Korea
+367014,SKU_1491,Headphones,30,18/07/2020,62.75,0.44,Credit Card,19.78,In-store,Not Returned,DHL,,Low,6162,26,Female,Saudi Arabia
+735960,SKU_1275,T-shirt,14,23/01/2023,50.28,0.22,Credit Card,29.06,In-store,Not Returned,DHL,,Medium,5025,71,Male,Saudi Arabia
+619165,SKU_1461,Backpack,46,16/02/2021,62.39,0.06,paypall,29.88,Online,Not Returned,DHL,,Low,4069,57,Male,Brazil
+579129,SKU_1855,White Mug,22,19/01/2020,1.62,0.16,Bank Transfer,10.85,In-store,Not Returned,DHL,,Low,713,28,Female,France
+100969,SKU_1622,T-shirt,7,23/09/2022,58.87,0.44,Credit Card,11.27,Online,Not Returned,DHL,,High,1817,58,Female,Sweden
+434737,SKU_1658,Wall Clock,44,17/01/2023,50.46,0.25,Credit Card,18.77,Online,Not Returned,DHL,,Medium,9576,50,Female,Turkey
+866065,SKU_1428,Office Chair,28,20/07/2021,11.26,0.42,Credit Card,16.79,In-store,Not Returned,DHL,,Low,7507,40,Male,Netherlands
+794497,SKU_1799,Headphones,40,09/10/2020,91.27,0.49,paypall,7.64,In-store,Not Returned,DHL,,High,2367,41,Male,United Kingdom
+868407,SKU_1766,Notebook,7,16/03/2021,48.5,0.07,Bank Transfer,13.14,Online,Not Returned,DHL,,High,6224,72,Female,South Africa
+862209,SKU_1844,Office Chair,37,20/09/2022,75.43,0.34,paypall,10.51,In-store,Returned,DHL,,Medium,665,25,Male,Italy
+680305,SKU_1139,USB Cable,9,27/05/2020,61.49,0.4,paypall,11.97,Online,Not Returned,DHL,,High,7911,36,Female,Japan
+997116,SKU_1366,Blue Pen,45,01/03/2024,99.78,0.01,paypall,18.78,Online,Not Returned,DHL,,Medium,5802,66,Female,Japan
+455249,SKU_1740,Headphones,9,22/04/2020,40.41,0.25,Credit Card,9.28,Online,Not Returned,DHL,,Low,7688,75,Female,Japan
+338242,SKU_1301,Wireless Mouse,3,11/11/2022,40.38,0.24,Bank Transfer,29.21,Online,Not Returned,DHL,,Medium,99,27,Female,Russia
+493276,SKU_1728,T-shirt,47,26/05/2023,33.32,0.07,paypall,28.64,Online,Not Returned,DHL,,Medium,530,68,Female,Sweden
+820217,SKU_1165,Blue Pen,47,30/08/2020,4.54,0.15,Credit Card,10.7,In-store,Not Returned,DHL,,Low,3058,15,Female,India
+182009,SKU_1541,Desk Lamp,8,28/01/2023,6.68,0.14,Bank Transfer,18.57,Online,Not Returned,DHL,,Medium,7671,42,Female,Russia
+234042,SKU_1076,Headphones,7,26/12/2022,95.75,0.09,paypall,28.5,Online,Not Returned,DHL,,High,6927,62,Female,Russia
+645607,SKU_1129,Wireless Mouse,22,02/10/2020,77.55,0.22,Bank Transfer,9.58,In-store,Returned,DHL,,Low,7836,32,Female,Turkey
+318400,SKU_1552,USB Cable,28,14/06/2024,91,0.09,Credit Card,17.05,In-store,Not Returned,DHL,,High,455,52,Female,South Africa
+896325,SKU_1316,T-shirt,26,08/09/2023,99.17,0.36,Bank Transfer,8.99,Online,Not Returned,DHL,,Medium,5453,30,Male,Italy
+270134,SKU_1670,Wireless Mouse,36,26/10/2022,91.26,0.27,paypall,11.8,Online,Not Returned,DHL,,Low,8494,63,Female,Mexico
+281144,SKU_1213,T-shirt,3,16/07/2023,97.19,0.37,Credit Card,7.35,In-store,Not Returned,DHL,,Medium,9830,35,Male,Sweden
+393904,SKU_1090,Wall Clock,16,19/01/2024,93.42,0.22,Bank Transfer,16.39,In-store,Not Returned,DHL,,Low,7849,14,Female,Japan
+996881,SKU_1308,Wall Clock,44,04/12/2022,73.79,0.03,paypall,27.13,Online,Returned,DHL,,Medium,8047,42,Female,Sweden
+132835,SKU_1443,Desk Lamp,30,02/11/2021,90.76,0.31,Bank Transfer,7.05,In-store,Not Returned,DHL,,High,4462,43,Female,Turkey
+309175,SKU_1479,Notebook,42,20/06/2023,81.58,0.41,Bank Transfer,23.73,Online,Not Returned,DHL,,Medium,1419,67,Female,Germany
+971135,SKU_1481,White Mug,7,21/12/2021,63.04,0.12,Credit Card,7.3,In-store,Not Returned,DHL,,Medium,7621,69,Female,Netherlands
+200369,SKU_1121,Wireless Mouse,18,07/05/2023,21.82,0.03,paypall,11.65,Online,Not Returned,DHL,,Low,6102,46,Male,South Korea
+203427,SKU_1144,USB Cable,38,20/12/2021,78.99,0.07,Bank Transfer,24.96,Online,Not Returned,DHL,,Low,7119,34,Male,South Africa
+206081,SKU_1231,T-shirt,4,16/06/2024,88.55,0.35,Credit Card,28.5,Online,Not Returned,DHL,,High,4736,62,Female,United States
+317986,SKU_1711,Blue Pen,7,12/11/2020,5.61,0.12,Credit Card,21.34,Online,Not Returned,DHL,,High,7465,63,Female,United States
+959084,SKU_1067,Wireless Mouse,37,16/06/2020,56.97,0.28,paypall,8,In-store,Not Returned,DHL,,High,6309,72,Female,Mexico
+680294,SKU_1216,Wall Clock,21,30/01/2021,27.87,0.05,Credit Card,11.23,In-store,Not Returned,DHL,,Low,2054,40,Female,Germany
+912267,SKU_1244,Wall Clock,6,22/12/2023,80.4,0.35,Credit Card,14.58,Online,Returned,DHL,,High,5874,40,Female,Italy
+900122,SKU_1759,USB Cable,36,15/05/2023,5.45,0.09,Bank Transfer,6.74,In-store,Not Returned,DHL,,Medium,9617,75,Female,Brazil
+189353,SKU_1314,Notebook,1,04/08/2022,65.18,0.16,Credit Card,24.08,In-store,Returned,DHL,,High,2400,59,Female,Mexico
+752632,SKU_1367,White Mug,6,02/02/2024,52.31,0.47,Bank Transfer,5.78,In-store,Not Returned,DHL,,Low,3904,60,Female,Russia
+251074,SKU_1307,USB Cable,18,24/06/2024,24.74,0.25,Bank Transfer,17.9,In-store,Not Returned,DHL,,Medium,4613,23,Female,South Africa
+750016,SKU_1604,Desk Lamp,9,20/08/2022,32.17,0.11,paypall,8.16,In-store,Not Returned,DHL,,Low,6853,56,Female,United States
+905378,SKU_1853,T-shirt,8,25/06/2022,18.36,0.4,Bank Transfer,25.57,Online,Not Returned,DHL,,Low,3385,55,Female,China
+830505,SKU_1987,Office Chair,31,17/12/2022,69.7,0.13,Bank Transfer,21.66,In-store,Not Returned,DHL,,High,7253,36,Female,Canada
+783404,SKU_1379,Backpack,46,08/02/2023,19.6,0.04,Credit Card,16.68,Online,Returned,DHL,,High,7191,60,Female,Turkey
+864757,SKU_1970,Blue Pen,48,17/12/2023,88.66,0.25,Credit Card,21.71,In-store,Not Returned,DHL,,Medium,1390,28,Male,India
+683526,SKU_1798,Office Chair,42,11/09/2023,28.11,0.36,paypall,5.74,In-store,Returned,DHL,,Medium,3632,58,Female,India
+305041,SKU_1731,Desk Lamp,45,20/09/2022,54.79,0.23,Credit Card,8.97,In-store,Not Returned,DHL,,Medium,6874,17,Male,Russia
+701552,SKU_1749,T-shirt,33,26/01/2022,83.51,0.45,Credit Card,15,Online,Not Returned,DHL,,Medium,523,25,Female,Australia
+846258,SKU_1435,Backpack,24,11/02/2020,96.29,0.28,Credit Card,24.76,Online,Not Returned,DHL,,Medium,864,40,Female,United States
+370640,SKU_1409,Desk Lamp,36,06/11/2022,7.01,0.29,paypall,22.08,In-store,Not Returned,DHL,,High,3234,41,Male,Brazil
+814242,SKU_1248,Office Chair,27,16/11/2022,68.55,0.09,Bank Transfer,11.74,Online,Returned,DHL,,High,9043,16,Female,Canada
+442313,SKU_1603,White Mug,44,04/10/2023,25.16,0.21,paypall,27.23,In-store,Not Returned,DHL,,High,6536,26,Female,Turkey
+414941,SKU_1099,Notebook,44,31/12/2022,7.03,0.46,Credit Card,15.25,Online,Not Returned,DHL,,Medium,2339,34,Male,Turkey
+528416,SKU_1914,Office Chair,9,28/02/2024,15.97,0.47,Bank Transfer,10.84,In-store,Not Returned,DHL,,High,1544,53,Female,Germany
+911774,SKU_1210,Headphones,15,21/03/2024,13.24,0.39,Bank Transfer,29.7,In-store,Returned,DHL,,Medium,9720,75,Female,South Africa
+475903,SKU_1771,Desk Lamp,2,02/12/2023,28.07,0.47,Bank Transfer,6.17,In-store,Not Returned,DHL,,High,6119,44,Female,Turkey
+484112,SKU_1696,T-shirt,48,31/07/2023,58.65,0.19,Credit Card,21.74,In-store,Not Returned,DHL,,High,1862,34,Female,Netherlands
+935737,SKU_1664,Office Chair,49,16/03/2024,55.16,0.13,paypall,17.79,In-store,Returned,DHL,,Low,1882,15,Female,South Korea
+752755,SKU_1419,Wall Clock,13,14/10/2020,16.96,0.3,Credit Card,6.84,Online,Not Returned,DHL,,Medium,2647,40,Female,China
+196143,SKU_1079,Notebook,27,17/03/2021,61.73,0.32,Credit Card,13.75,In-store,Not Returned,DHL,,Medium,3251,23,Female,Australia
+447043,SKU_1606,Desk Lamp,19,15/04/2020,19.91,0.06,paypall,8.52,In-store,Not Returned,DHL,,High,2139,73,Female,South Korea
+335281,SKU_1161,Blue Pen,19,15/10/2023,1.57,0.07,paypall,23.34,In-store,Not Returned,DHL,,Medium,3746,59,Female,Brazil
+819211,SKU_1868,Office Chair,6,21/01/2022,46.84,0.13,Credit Card,27.71,In-store,Not Returned,DHL,,Low,1673,28,Male,Sweden
+604434,SKU_1894,Office Chair,11,09/11/2020,21.67,0.21,Credit Card,15.37,In-store,Not Returned,DHL,,High,7644,74,Female,Germany
+148320,SKU_1645,Headphones,15,20/01/2020,12.19,0.08,paypall,10.8,Online,Not Returned,DHL,,Medium,9615,54,Male,Australia
+413694,SKU_1526,Wireless Mouse,3,19/08/2021,48.17,0.44,Bank Transfer,13.54,In-store,Not Returned,DHL,,High,8113,64,Male,Australia
+581159,SKU_1877,Wall Clock,6,01/06/2020,34.48,0.19,Credit Card,16.37,In-store,Not Returned,DHL,,Medium,7061,18,Female,Saudi Arabia
+563698,SKU_1413,Backpack,8,13/07/2020,90.15,0.25,Bank Transfer,7.45,In-store,Not Returned,DHL,,High,6687,74,Female,South Africa
+622247,SKU_1073,Desk Lamp,35,22/12/2021,78.46,0.34,paypall,19.15,In-store,Not Returned,DHL,,High,9328,72,Female,United Kingdom
+675854,SKU_1530,T-shirt,9,03/10/2021,34.38,0.21,Credit Card,21.25,In-store,Not Returned,DHL,,Medium,9644,71,Female,Sweden
+865924,SKU_1383,USB Cable,39,13/01/2024,88.45,0.39,Bank Transfer,11.63,In-store,Not Returned,DHL,,Low,3009,32,Female,Netherlands
+962132,SKU_1007,Wireless Mouse,5,20/09/2020,38.28,0.49,Bank Transfer,23.84,In-store,Not Returned,DHL,,Low,3086,47,Female,South Africa
+824394,SKU_1366,Desk Lamp,18,20/08/2023,13.98,0.04,Bank Transfer,17.29,In-store,Not Returned,DHL,,Low,2111,53,Male,United Kingdom
+456817,SKU_1256,Blue Pen,27,05/07/2022,29.94,0.3,Bank Transfer,16.5,In-store,Returned,DHL,,Low,5671,21,Male,Spain
+602264,SKU_1188,Wall Clock,37,27/11/2023,4.28,0.26,Credit Card,24.89,In-store,Not Returned,DHL,,Low,1538,40,Female,Brazil
+150670,SKU_1619,Wireless Mouse,4,03/05/2022,9.78,0.1,Credit Card,10.63,Online,Not Returned,DHL,,High,8844,15,Male,Germany
+622797,SKU_1271,T-shirt,29,13/11/2020,70.32,0.01,Credit Card,18.44,In-store,Not Returned,DHL,,Medium,131,48,Female,Germany
+242312,SKU_1249,Headphones,20,20/11/2023,8.94,0.45,Bank Transfer,18.48,In-store,Not Returned,DHL,,Low,8686,35,Female,United Kingdom
+365972,SKU_1983,Backpack,26,21/06/2021,23.16,0.05,Credit Card,26.54,In-store,Not Returned,DHL,,High,1949,39,Male,Japan
+990752,SKU_1817,Headphones,23,30/05/2022,11.37,0.3,Bank Transfer,29.21,Online,Not Returned,DHL,,Medium,673,23,Female,Germany
+509940,SKU_1078,Blue Pen,4,28/10/2022,48.51,0.21,Credit Card,20.31,In-store,Not Returned,DHL,,Medium,8641,36,Female,South Korea
+545485,SKU_1745,Wireless Mouse,44,31/03/2021,49.15,0.29,paypall,24.86,In-store,Returned,DHL,,Low,3898,51,Male,United Kingdom
+489878,SKU_1799,White Mug,33,03/10/2020,77.75,0.36,Bank Transfer,11.68,In-store,Not Returned,DHL,,Low,4495,73,Male,India
+373139,SKU_1047,Office Chair,28,29/05/2020,20.93,0.48,Bank Transfer,8.62,In-store,Not Returned,DHL,,Medium,7021,21,Female,Italy
+922613,SKU_1716,Office Chair,19,25/12/2022,20.08,0.11,Credit Card,12.92,Online,Not Returned,DHL,,High,4488,72,Female,Japan
+780772,SKU_1305,Wireless Mouse,13,13/11/2020,3.46,0.21,Credit Card,25.41,In-store,Not Returned,DHL,,Low,7669,37,Male,Brazil
+690127,SKU_1791,Office Chair,9,04/09/2022,32.08,0.16,Bank Transfer,12.92,In-store,Not Returned,DHL,,High,6098,34,Female,Mexico
+581891,SKU_1734,Blue Pen,1,12/08/2020,91.91,0.32,Bank Transfer,10.71,In-store,Not Returned,DHL,,Medium,9590,37,Female,Netherlands
+127224,SKU_1391,White Mug,13,10/04/2021,44.49,0.02,Bank Transfer,7.22,In-store,Not Returned,DHL,,Low,8346,71,Female,Netherlands
+568586,SKU_1683,T-shirt,9,22/11/2020,39.34,0.47,paypall,24.27,In-store,Not Returned,DHL,,Low,2438,18,Female,South Korea
+720273,SKU_1470,Notebook,18,26/07/2021,44.84,0.37,paypall,10.71,In-store,Not Returned,DHL,,High,5586,30,Female,United States
+921307,SKU_1419,Desk Lamp,39,26/08/2022,8.34,0.22,Credit Card,5.67,Online,Not Returned,DHL,,Medium,4364,68,Female,United States
+475897,SKU_1935,Notebook,40,21/05/2024,92.95,0.06,Bank Transfer,29.01,Online,Not Returned,DHL,,Medium,3162,30,Female,United Kingdom
+339276,SKU_1377,Wall Clock,16,23/02/2022,45.33,0.3,paypall,16.88,Online,Returned,DHL,,Medium,3750,28,Female,China
+685676,SKU_1804,Blue Pen,29,21/05/2024,35.39,0.01,Bank Transfer,13.03,Online,Not Returned,DHL,,Low,6856,65,Female,Spain
+733609,SKU_1005,Headphones,16,31/07/2021,61.92,0.06,paypall,7.26,Online,Not Returned,DHL,,Medium,7881,73,Female,Australia
+107415,SKU_1855,White Mug,15,29/12/2021,70.79,0.05,paypall,20.65,Online,Not Returned,DHL,,Low,5594,42,Female,Canada
+520647,SKU_1183,Wireless Mouse,4,30/08/2023,79.27,0.47,paypall,12.94,In-store,Not Returned,DHL,,Medium,5860,74,Female,Sweden
+149297,SKU_1544,Notebook,25,22/01/2022,6.22,0.49,Bank Transfer,6.92,Online,Not Returned,DHL,,High,2229,67,Female,Saudi Arabia
+805211,SKU_1244,Wall Clock,46,28/10/2023,40.56,0.05,Credit Card,19.34,In-store,Not Returned,DHL,,Medium,2399,15,Female,Russia
+332791,SKU_1673,T-shirt,37,09/07/2023,85.25,0.22,Bank Transfer,17.14,Online,Not Returned,DHL,,Medium,9596,44,Female,Australia
+866098,SKU_1383,Wall Clock,26,07/01/2022,39.9,0.12,Credit Card,19.28,Online,Not Returned,DHL,,Low,870,31,Female,South Africa
+921853,SKU_1649,White Mug,1,16/09/2023,44.79,0.5,Bank Transfer,16.1,In-store,Not Returned,DHL,,High,9848,56,Female,South Korea
+293717,SKU_1556,Blue Pen,26,10/09/2021,44.24,0.01,Bank Transfer,11.38,Online,Not Returned,DHL,,Medium,2603,22,Female,Spain
+196608,SKU_1760,Office Chair,3,02/01/2023,98.6,0.24,Bank Transfer,27.5,In-store,Not Returned,DHL,,Low,6007,40,Male,Brazil
+741269,SKU_1582,Headphones,11,02/01/2021,60.45,0.13,Credit Card,29.3,Online,Not Returned,DHL,,High,9494,49,Female,Turkey
+333103,SKU_1400,USB Cable,12,10/10/2022,22.49,0.2,Bank Transfer,6.71,In-store,Not Returned,DHL,,Medium,6362,15,Female,South Korea
+312718,SKU_1861,Wall Clock,25,03/02/2023,53.92,0.14,paypall,27.59,In-store,Not Returned,DHL,,Low,7820,35,Female,Brazil
+857914,SKU_1594,Wall Clock,16,01/09/2021,41.91,0.18,Credit Card,8.81,In-store,Returned,DHL,,High,5110,59,Female,Canada
+192172,SKU_1497,Wall Clock,3,15/04/2024,84.98,0.25,Bank Transfer,15.95,Online,Not Returned,DHL,,Low,1862,71,Female,Russia
+324021,SKU_1571,Office Chair,43,04/05/2021,62.04,0.11,Bank Transfer,5.6,Online,Returned,DHL,,High,5191,72,Female,Sweden
+659190,SKU_1116,Office Chair,32,23/08/2023,27.24,0.43,Bank Transfer,27.42,Online,Not Returned,DHL,,Low,1354,15,Female,South Africa
+241564,SKU_1084,USB Cable,8,16/03/2024,97.94,0.11,Credit Card,9.64,In-store,Returned,DHL,,High,5189,25,Male,United States
+971431,SKU_1277,Headphones,46,02/03/2021,66.48,0.47,paypall,7.01,In-store,Not Returned,DHL,,Medium,4575,20,Male,France
+139711,SKU_1262,Backpack,37,17/11/2023,5.68,0.25,paypall,27.88,Online,Not Returned,DHL,,Medium,3158,34,Female,Australia
+297872,SKU_1959,T-shirt,32,18/06/2020,99.51,0.04,Bank Transfer,27.62,In-store,Not Returned,DHL,,Medium,8080,41,Male,Australia
+805126,SKU_1376,T-shirt,32,18/03/2022,12.02,0.03,Credit Card,18.29,Online,Not Returned,DHL,,Medium,1126,41,Female,Netherlands
+709510,SKU_1635,Wall Clock,14,04/05/2021,15.37,0.16,paypall,11.1,In-store,Not Returned,DHL,,High,497,51,Female,South Korea
+443457,SKU_1350,Wireless Mouse,11,25/11/2021,90.91,0.07,Bank Transfer,12.17,Online,Not Returned,DHL,,High,5348,27,Female,China
+507124,SKU_1290,White Mug,38,08/09/2021,47.32,0.15,paypall,7.42,Online,Not Returned,DHL,,High,9690,15,Female,Brazil
+378531,SKU_1919,T-shirt,40,13/06/2021,16.36,0.22,Credit Card,20.99,In-store,Not Returned,DHL,,Low,2605,60,Male,France
+976218,SKU_1346,USB Cable,38,29/11/2020,25.94,0.21,Bank Transfer,26.64,Online,Returned,DHL,,Low,9165,34,Female,Mexico
+410483,SKU_1644,Notebook,29,13/09/2020,82.37,0.38,Credit Card,13.55,Online,Not Returned,DHL,,Medium,398,58,Female,United Kingdom
+114017,SKU_1544,Wall Clock,36,29/08/2022,73.4,0.04,Bank Transfer,23.8,In-store,Not Returned,DHL,,Low,2364,44,Female,Netherlands
+377133,SKU_1700,Blue Pen,1,20/03/2024,89.11,0.33,paypall,14.07,Online,Not Returned,DHL,,Medium,7818,33,Male,Saudi Arabia
+555738,SKU_1440,Backpack,37,05/02/2022,45.21,0.07,Credit Card,10.25,In-store,Not Returned,DHL,,High,1450,60,Female,Japan
+988750,SKU_1051,Backpack,23,19/05/2024,40.22,0.44,paypall,6.48,In-store,Returned,DHL,,High,1259,46,Female,Russia
+652832,SKU_1351,USB Cable,34,03/11/2022,50.83,0.49,Bank Transfer,23.59,Online,Not Returned,DHL,,High,1809,42,Female,Germany
+207524,SKU_1826,T-shirt,15,23/09/2023,63.74,0.08,Bank Transfer,14.81,In-store,Not Returned,DHL,,Medium,3152,56,Female,Germany
+865230,SKU_1678,Headphones,6,30/08/2023,33.92,0.04,Bank Transfer,14.16,Online,Not Returned,DHL,,High,5696,49,Female,United States
+126178,SKU_1213,Headphones,2,13/03/2022,47.53,0.44,Credit Card,15.65,In-store,Not Returned,DHL,,Low,8247,54,Female,United Kingdom
+483331,SKU_1896,USB Cable,13,15/06/2020,82.76,0.34,Bank Transfer,15.93,Online,Not Returned,DHL,,Low,71,42,Female,India
+436564,SKU_1995,T-shirt,27,31/10/2021,11.62,0.48,Credit Card,19.23,Online,Not Returned,DHL,,Medium,2625,46,Female,Italy
+310190,SKU_1254,White Mug,23,05/04/2024,91.03,0,Bank Transfer,6.88,Online,Not Returned,DHL,,High,1432,48,Male,South Korea
+245459,SKU_1510,Blue Pen,26,02/11/2021,55.3,0.09,Credit Card,29.89,Online,Not Returned,DHL,,Low,2197,58,Male,United States
+578082,SKU_1328,Office Chair,42,06/12/2020,84.96,0.41,paypall,26.48,Online,Not Returned,DHL,,Medium,8561,31,Female,India
+401586,SKU_1381,White Mug,41,21/12/2020,84.02,0.3,paypall,17.44,Online,Not Returned,DHL,,Medium,7810,32,Male,Mexico
+390395,SKU_1489,Wall Clock,26,13/02/2022,9.01,0.39,paypall,7.08,In-store,Returned,DHL,,High,8015,31,Female,Australia
+120180,SKU_1679,T-shirt,42,19/09/2020,11.38,0.14,paypall,9.32,In-store,Not Returned,DHL,,Medium,6885,61,Female,Australia
+455706,SKU_1469,Headphones,24,03/09/2023,38.42,0.46,Bank Transfer,27.71,In-store,Not Returned,DHL,,Medium,7170,51,Female,South Korea
+927647,SKU_1731,Wireless Mouse,12,03/04/2023,65.07,0.3,Credit Card,28.44,In-store,Returned,DHL,Rome,Medium,8263,31,Female,China
+466223,SKU_1036,USB Cable,34,02/09/2021,19.05,0.39,Credit Card,27.25,Online,Not Returned,DHL,Rome,Low,4992,44,Male,China
+606554,SKU_1964,Wireless Mouse,3,03/05/2023,98.14,0.05,Bank Transfer,5.59,In-store,Returned,DHL,Rome,Medium,9248,70,Female,China
+536152,SKU_1453,Office Chair,41,19/05/2020,62.1,0.25,Bank Transfer,25.13,Online,Not Returned,DHL,Rome,Low,5736,66,Male,India
+152133,SKU_1376,Office Chair,19,26/07/2023,51.84,0.14,paypall,24.52,Online,Returned,DHL,Rome,Medium,1420,28,Male,Italy
+154560,SKU_1067,Desk Lamp,4,13/01/2024,88.88,0.17,Bank Transfer,25.89,Online,Returned,DHL,Rome,High,6633,28,Male,Italy
+467554,SKU_1955,Desk Lamp,23,15/07/2021,97.03,0.22,Credit Card,13.07,Online,Not Returned,DHL,Rome,Medium,4928,47,Female,Japan
+847661,SKU_1439,USB Cable,36,01/03/2023,70.86,0.23,paypall,23.44,In-store,Not Returned,DHL,Rome,High,3624,52,Female,Japan
+338389,SKU_1568,USB Cable,24,18/05/2023,30.22,0.05,Credit Card,27.28,Online,Not Returned,DHL,Rome,Low,5775,44,Female,Spain
+647337,SKU_1305,Wireless Mouse,35,25/10/2020,53.05,0.45,Credit Card,11.46,In-store,Returned,DHL,Rome,Medium,9577,41,Female,Brazil
+720775,SKU_1375,Backpack,49,04/09/2021,97.66,0.41,Bank Transfer,22.74,Online,Not Returned,DHL,Rome,Low,3285,55,Male,Canada
+330706,SKU_1378,Wall Clock,8,14/03/2020,84.12,0.14,paypall,8.54,Online,Returned,DHL,Rome,High,5317,61,Male,Canada
+179164,SKU_1847,Backpack,2,12/05/2023,59.38,0.37,paypall,5.89,In-store,Not Returned,DHL,Rome,Medium,2804,21,Female,France
+248441,SKU_1339,Backpack,27,26/10/2020,51.87,0.48,Credit Card,13.21,In-store,Not Returned,DHL,Rome,Low,2940,74,Female,France
+117660,SKU_1851,Wall Clock,37,28/06/2022,72.11,0.11,Bank Transfer,27.45,In-store,Not Returned,DHL,Rome,Low,3097,19,Female,Mexico
+663508,SKU_1561,Wireless Mouse,7,28/02/2023,24.7,0.37,Bank Transfer,11.19,Online,Returned,DHL,Rome,Low,2515,20,Female,Mexico
+754986,SKU_1275,Desk Lamp,8,01/03/2022,90.7,0.35,paypall,9.88,In-store,Not Returned,DHL,Rome,High,2020,43,Female,Mexico
+174601,SKU_1085,Office Chair,48,31/01/2024,14.96,0.06,paypall,21.96,Online,Not Returned,DHL,Rome,Medium,5301,58,Female,Mexico
+947343,SKU_1110,Office Chair,22,22/01/2023,46.05,0.05,Bank Transfer,13.73,Online,Not Returned,DHL,Rome,Medium,1024,58,Female,Mexico
+455183,SKU_1473,T-shirt,13,04/10/2021,72.02,0.39,paypall,12.71,In-store,Not Returned,DHL,Rome,Low,5956,73,Female,Mexico
+422433,SKU_1618,Office Chair,38,27/11/2020,45.74,0.45,Bank Transfer,29.93,Online,Not Returned,DHL,Rome,Medium,2822,72,Female,Russia
+492963,SKU_1534,Backpack,24,29/12/2023,84.87,0.01,Bank Transfer,26.12,Online,Not Returned,DHL,Rome,High,2872,35,Female,Sweden
+152494,SKU_1195,White Mug,36,26/07/2021,73.43,0.17,Credit Card,29.71,In-store,Not Returned,DHL,Rome,Medium,5306,65,Female,Sweden
+461799,SKU_1939,White Mug,33,31/07/2021,72.99,0.31,Credit Card,26.15,Online,Not Returned,DHL,Rome,Low,5178,58,Female,Turkey
+131585,SKU_1917,Wall Clock,25,14/09/2020,1.72,0.19,Credit Card,11.45,In-store,Not Returned,DHL,Rome,Medium,6020,63,Male,Turkey
+142039,SKU_1083,White Mug,37,24/09/2022,32.53,0.36,Bank Transfer,26.4,In-store,Not Returned,DHL,Rome,Medium,7674,69,Female,Turkey
+294042,SKU_1659,Wireless Mouse,43,07/09/2021,11.06,0.41,Credit Card,13.8,Online,Not Returned,DHL,Rome,Medium,3822,35,Female,Germany
+822237,SKU_1398,Wireless Mouse,45,21/01/2020,79.93,0.24,paypall,15.2,In-store,Not Returned,DHL,Rome,Low,1223,41,Female,Germany
+213532,SKU_1632,Headphones,33,16/10/2023,68.2,0.02,paypall,28.45,In-store,Not Returned,DHL,Rome,Medium,7474,72,Male,Germany
+813067,SKU_1203,Backpack,34,27/05/2024,94.22,0.27,Credit Card,6.44,Online,Not Returned,DHL,Rome,Medium,2174,42,Female,Australia
+807259,SKU_1853,Desk Lamp,11,12/11/2021,23.5,0.11,paypall,12.68,Online,Not Returned,DHL,Rome,High,1407,42,Female,Australia
+333127,SKU_1100,White Mug,14,10/12/2023,56.23,0.17,Credit Card,5.54,Online,Returned,DHL,Rome,Low,5897,61,Female,Australia
+265140,SKU_1395,USB Cable,12,04/02/2021,4.05,0.07,Bank Transfer,10.46,In-store,Not Returned,DHL,Rome,Medium,9123,58,Male,Netherlands
+731911,SKU_1625,Backpack,21,15/11/2022,23.19,0.01,Credit Card,6.78,In-store,Not Returned,DHL,Rome,High,6446,38,Female,South Korea
+564894,SKU_1855,Notebook,27,01/08/2020,92.4,0.46,Bank Transfer,11.3,In-store,Returned,DHL,Rome,Medium,1819,58,Female,South Korea
+221352,SKU_1137,Blue Pen,38,01/07/2020,58.28,0.24,paypall,22.15,Online,Not Returned,DHL,Rome,Low,3939,71,Female,South Korea
+645702,SKU_1988,Wall Clock,32,02/06/2023,80.27,0.15,Bank Transfer,25.76,In-store,Not Returned,DHL,Rome,Medium,7804,75,Male,South Korea
+169360,SKU_1729,Office Chair,36,14/10/2023,83.78,0.36,Bank Transfer,11.42,Online,Not Returned,DHL,Rome,High,5778,14,Female,Saudi Arabia
+408213,SKU_1614,Office Chair,9,14/02/2023,29.85,0.39,Credit Card,15.49,In-store,Returned,DHL,Rome,High,8627,57,Female,South Africa
+481595,SKU_1944,Desk Lamp,15,29/05/2022,49.86,0.01,paypall,27.59,Online,Not Returned,DHL,Rome,High,6300,74,Male,United States
+318123,SKU_1113,Wall Clock,31,04/08/2021,78.38,0,Bank Transfer,11.53,In-store,Returned,DHL,Rome,Medium,8152,63,Female,United Kingdom
+775748,SKU_1160,Wall Clock,34,17/11/2022,97.63,0.3,paypall,19.46,Online,Not Returned,DHL,Rome,Medium,8426,74,Female,United Kingdom
+521229,SKU_1238,Office Chair,23,23/07/2020,85.55,0.09,Bank Transfer,20.32,Online,Not Returned,DHL,Rome,Low,3519,52,Female,China
+592880,SKU_1398,Blue Pen,10,29/05/2024,86.3,0.38,Credit Card,22.97,In-store,Not Returned,DHL,Rome,High,6038,26,Female,India
+880825,SKU_1957,Wireless Mouse,45,14/02/2022,20.7,0.35,Bank Transfer,23.67,Online,Not Returned,DHL,Rome,Low,8106,39,Female,India
+805860,SKU_1679,USB Cable,35,13/08/2023,80.41,0.5,paypall,9.53,Online,Not Returned,DHL,Rome,Low,8327,49,Female,India
+906790,SKU_1531,Wireless Mouse,20,29/01/2021,25.25,0.26,Credit Card,14.16,In-store,Not Returned,DHL,Rome,Low,2872,50,Female,India
+272692,SKU_1311,Blue Pen,15,13/11/2022,12.18,0.09,Credit Card,6.95,In-store,Not Returned,DHL,Rome,High,6582,50,Male,India
+434794,SKU_1444,Wall Clock,45,28/04/2022,96.19,0.47,Bank Transfer,10.97,In-store,Not Returned,DHL,Rome,High,4671,55,Male,India
+932423,SKU_1177,Backpack,25,16/02/2020,19.6,0.3,Bank Transfer,20.51,Online,Not Returned,DHL,Rome,Medium,6501,63,Female,India
+632560,SKU_1243,Desk Lamp,31,10/04/2024,37.75,0.07,Bank Transfer,11.8,Online,Not Returned,DHL,Rome,High,9426,72,Female,India
+165020,SKU_1093,White Mug,4,16/10/2022,82.41,0.49,paypall,26.63,In-store,Returned,DHL,Rome,Medium,7029,61,Female,Italy
+261769,SKU_1448,T-shirt,29,30/08/2021,96.41,0.38,Bank Transfer,9.53,Online,Not Returned,DHL,Rome,High,1760,61,Female,Italy
+177527,SKU_1677,Headphones,20,02/01/2022,39.07,0.41,Credit Card,21.32,In-store,Not Returned,DHL,Rome,Medium,3500,66,Female,Italy
+512942,SKU_1264,Office Chair,47,26/01/2023,9.64,0.46,paypall,18.75,Online,Not Returned,DHL,Rome,Low,3599,25,Female,Japan
+700541,SKU_1392,Desk Lamp,34,27/05/2020,34.59,0.28,paypall,26.56,In-store,Not Returned,DHL,Rome,High,5878,46,Female,Japan
+220250,SKU_1596,Office Chair,47,09/04/2023,13.22,0.24,Credit Card,10.96,Online,Not Returned,DHL,Rome,High,8050,49,Female,Japan
+315963,SKU_1781,Office Chair,39,06/01/2024,30.79,0.49,Credit Card,7.71,In-store,Not Returned,DHL,Rome,High,633,63,Female,Japan
+630318,SKU_1504,T-shirt,15,28/01/2021,62.31,0.33,paypall,25.72,In-store,Not Returned,DHL,Rome,Medium,9366,71,Female,Spain
+617514,SKU_1214,Backpack,32,15/11/2022,22.37,0.31,Credit Card,24.44,Online,Not Returned,DHL,Rome,Medium,1429,33,Female,Brazil
+332459,SKU_1747,Office Chair,7,26/01/2023,4.93,0.4,Bank Transfer,26.88,In-store,Not Returned,DHL,Rome,Medium,4989,22,Female,Canada
+481164,SKU_1830,Headphones,33,21/07/2021,24.16,0.04,Bank Transfer,16.57,Online,Not Returned,DHL,Rome,Medium,5673,37,Female,Canada
+577060,SKU_1453,T-shirt,11,27/10/2022,1.77,0.25,Credit Card,21.89,In-store,Not Returned,DHL,Rome,Medium,3985,40,Male,Canada
+109470,SKU_1950,Backpack,23,08/09/2023,19.74,0.37,paypall,11.65,Online,Not Returned,DHL,Rome,High,2184,45,Female,Canada
+769774,SKU_1067,Wall Clock,20,22/02/2024,79.54,0.29,paypall,23.53,Online,Not Returned,DHL,Rome,Medium,4363,53,Female,Canada
+212489,SKU_1445,T-shirt,21,25/05/2024,37.41,0.5,Bank Transfer,6.32,In-store,Not Returned,DHL,Rome,Medium,151,54,Female,Canada
+380092,SKU_1730,T-shirt,32,20/02/2022,90.18,0.13,Credit Card,18.38,In-store,Not Returned,DHL,Rome,Low,3892,21,Female,France
+455045,SKU_1454,Notebook,5,30/03/2020,31.98,0.45,Credit Card,14.59,In-store,Returned,DHL,Rome,Low,8806,27,Female,France
+349109,SKU_1335,USB Cable,39,06/04/2023,95.53,0.47,paypall,16.32,In-store,Not Returned,DHL,Rome,Low,177,72,Female,France
+936659,SKU_1081,Wall Clock,11,29/10/2020,88.83,0.35,paypall,12.82,In-store,Not Returned,DHL,Rome,Low,9946,22,Female,Mexico
+278841,SKU_1736,Office Chair,19,07/12/2020,94.61,0.13,paypall,7.12,In-store,Not Returned,DHL,Rome,Medium,8156,36,Female,Mexico
+108014,SKU_1922,Wall Clock,22,12/02/2022,92.98,0.49,Credit Card,6.97,Online,Not Returned,DHL,Rome,Medium,2601,37,Female,Russia
+281808,SKU_1563,Backpack,16,20/06/2024,79.1,0.27,Credit Card,12.83,Online,Not Returned,DHL,Rome,Low,1733,52,Female,Russia
+439771,SKU_1477,Office Chair,27,21/09/2021,61.31,0.5,paypall,28.51,In-store,Not Returned,DHL,Rome,High,5503,16,Female,Sweden
+194303,SKU_1006,White Mug,17,18/01/2023,1.48,0.16,Credit Card,8.44,In-store,Returned,DHL,Rome,High,7520,35,Male,Sweden
+533048,SKU_1482,USB Cable,13,20/06/2024,77.4,0.25,Bank Transfer,23.76,In-store,Not Returned,DHL,Rome,High,6303,43,Male,Sweden
+386603,SKU_1294,T-shirt,24,26/11/2021,39.24,0.25,paypall,28.14,In-store,Not Returned,DHL,Rome,Medium,3750,21,Female,Turkey
+151033,SKU_1838,Wall Clock,38,17/04/2023,98.31,0.2,Bank Transfer,29.7,Online,Returned,DHL,Rome,Low,5219,48,Female,Turkey
+407086,SKU_1360,Wall Clock,27,03/10/2023,71.76,0.22,paypall,7.02,In-store,Not Returned,DHL,Rome,Low,3340,73,Female,Turkey
+626249,SKU_1184,T-shirt,12,01/03/2022,47.03,0.16,Credit Card,11.93,In-store,Not Returned,DHL,Rome,Medium,8626,28,Female,Australia
+433975,SKU_1360,Headphones,25,08/10/2022,13.14,0.1,Credit Card,7.72,In-store,Not Returned,DHL,Rome,High,2850,50,Female,Australia
+803543,SKU_1406,Desk Lamp,31,17/12/2021,81.3,0.07,Bank Transfer,14.81,In-store,Not Returned,DHL,Rome,High,3695,15,Male,Netherlands
+402728,SKU_1688,Blue Pen,39,11/03/2021,89.26,0.14,Bank Transfer,23.78,Online,Not Returned,DHL,Rome,High,2713,41,Male,Netherlands
+223502,SKU_1858,Notebook,1,03/12/2020,48.74,0.27,paypall,20.27,In-store,Not Returned,DHL,Rome,Medium,7775,70,Female,Saudi Arabia
+240707,SKU_1820,Office Chair,13,18/10/2020,95.85,0.05,Credit Card,20.46,Online,Not Returned,DHL,Rome,Low,972,21,Female,South Africa
+782736,SKU_1878,Blue Pen,33,14/09/2021,21.59,0.31,Credit Card,6.09,Online,Not Returned,DHL,Rome,Low,7152,60,Female,South Africa
+408797,SKU_1308,Backpack,44,19/02/2021,11.42,0.18,paypall,5.88,In-store,Not Returned,DHL,Rome,High,170,65,Female,South Africa
+231691,SKU_1009,T-shirt,23,29/03/2022,94.68,0.21,Bank Transfer,19.75,In-store,Not Returned,DHL,Rome,Low,5625,38,Male,United States
+883843,SKU_1593,Backpack,41,14/02/2020,91.39,0.01,Bank Transfer,7.96,Online,Not Returned,DHL,Rome,Medium,8943,57,Female,United States
+806050,SKU_1348,Wireless Mouse,38,20/02/2022,46.42,0.25,Credit Card,28.34,Online,Not Returned,DHL,Rome,Medium,1422,30,Male,United Kingdom
+172204,SKU_1494,Headphones,42,14/07/2023,79.95,0.45,Credit Card,12.51,Online,Not Returned,DHL,Rome,High,6805,60,Male,United Kingdom
+150785,SKU_1221,Headphones,35,10/05/2022,27.96,0.28,Credit Card,23.99,In-store,Returned,DHL,Rome,Low,1106,29,Male,China
+789391,SKU_1084,T-shirt,33,19/12/2021,73.89,0.34,paypall,10.64,Online,Not Returned,DHL,Rome,Medium,1428,74,Male,China
+233387,SKU_1173,Notebook,36,16/03/2022,36.92,0.37,Credit Card,15.49,Online,Not Returned,DHL,Rome,Medium,9139,38,Female,India
+435415,SKU_1320,Desk Lamp,37,03/10/2021,75.93,0.1,paypall,7.32,In-store,Not Returned,DHL,Rome,High,4758,38,Female,India
+323773,SKU_1148,Wireless Mouse,10,29/01/2020,83.17,0.21,Credit Card,27.99,In-store,Returned,DHL,Rome,High,7734,42,Male,India
+572999,SKU_1475,Wireless Mouse,38,26/12/2020,72.76,0.47,paypall,18.72,In-store,Not Returned,DHL,Rome,Medium,9508,30,Female,Japan
+890787,SKU_1392,Headphones,31,08/09/2021,4.52,0.36,Bank Transfer,19.63,In-store,Not Returned,DHL,Rome,High,2495,52,Female,Spain
+383551,SKU_1013,White Mug,42,29/11/2023,20.52,0.29,Bank Transfer,8.06,Online,Returned,DHL,Rome,Low,5367,69,Female,Spain
+456961,SKU_1183,Wall Clock,30,11/12/2021,3.36,0.24,Bank Transfer,26.64,In-store,Not Returned,DHL,Rome,High,8875,66,Male,Brazil
+598685,SKU_1769,Desk Lamp,14,16/11/2022,88.95,0.29,paypall,16.3,In-store,Not Returned,DHL,Rome,Low,6688,70,Female,Canada
+914419,SKU_1522,Headphones,21,05/05/2021,90.03,0.35,Bank Transfer,20.25,Online,Not Returned,DHL,Rome,High,4111,19,Female,France
+251426,SKU_1255,USB Cable,1,12/03/2024,55.65,0.26,paypall,21.33,Online,Returned,DHL,Rome,Low,403,65,Female,France
+927385,SKU_1252,USB Cable,16,20/01/2023,54.41,0.38,Credit Card,27.3,In-store,Not Returned,DHL,Rome,Low,6469,42,Male,Mexico
+824155,SKU_1900,Wall Clock,34,19/05/2024,43.79,0.17,paypall,6.87,Online,Not Returned,DHL,Rome,Low,2305,45,Male,Russia
+803990,SKU_1062,Blue Pen,19,04/07/2023,43.34,0.03,Bank Transfer,28.63,Online,Not Returned,DHL,Rome,Medium,93,43,Female,Turkey
+231379,SKU_1526,Blue Pen,18,03/08/2023,53.03,0.12,Bank Transfer,17.69,In-store,Not Returned,DHL,Rome,Low,7449,66,Male,Turkey
+166046,SKU_1088,T-shirt,2,10/01/2022,54.57,0.45,paypall,16.62,In-store,Not Returned,DHL,Rome,High,3111,18,Female,Germany
+673399,SKU_1114,T-shirt,47,19/01/2023,60.24,0.29,paypall,23.21,In-store,Returned,DHL,Rome,Medium,6201,25,Male,Australia
+576113,SKU_1174,White Mug,14,01/02/2023,78.43,0.23,Bank Transfer,16,In-store,Not Returned,DHL,Rome,Medium,7480,31,Male,Australia
+547185,SKU_1859,Desk Lamp,4,05/01/2024,72.41,0.42,Credit Card,6.34,Online,Not Returned,DHL,Rome,High,1929,54,Female,Australia
+243973,SKU_1005,Headphones,14,24/01/2021,78.38,0.06,Bank Transfer,13.91,In-store,Not Returned,DHL,Rome,High,1383,40,Female,Netherlands
+977676,SKU_1011,USB Cable,16,13/05/2021,89.86,0.49,Bank Transfer,16.15,Online,Not Returned,DHL,Rome,Low,9814,66,Female,Netherlands
+539643,SKU_1275,Headphones,33,14/07/2021,30.32,0.21,paypall,27.99,In-store,Not Returned,DHL,Rome,High,7019,16,Female,South Korea
+929783,SKU_1816,Headphones,48,28/03/2021,58.55,0.3,Credit Card,6.46,Online,Not Returned,DHL,Rome,Low,7313,62,Female,South Korea
+676677,SKU_1984,T-shirt,44,09/01/2020,63.55,0.04,Bank Transfer,20.6,In-store,Not Returned,DHL,Rome,Low,975,29,Female,Saudi Arabia
+313396,SKU_1823,USB Cable,28,02/03/2021,2.63,0.02,Credit Card,25.01,Online,Not Returned,DHL,Rome,High,7410,50,Female,Saudi Arabia
+191583,SKU_1153,T-shirt,14,17/12/2022,41.54,0.08,Credit Card,14.14,Online,Not Returned,DHL,Rome,Medium,1598,52,Female,Saudi Arabia
+906397,SKU_1772,White Mug,31,20/04/2020,3.17,0.13,Bank Transfer,16.57,In-store,Not Returned,DHL,Rome,Low,7724,60,Female,Saudi Arabia
+907903,SKU_1950,Blue Pen,24,13/10/2023,85.08,0.24,paypall,29.53,Online,Not Returned,DHL,Rome,Medium,9097,40,Female,South Africa
+858769,SKU_1171,Wall Clock,10,20/08/2020,34.7,0.41,Bank Transfer,13.55,Online,Not Returned,DHL,Rome,High,6024,57,Female,South Africa
+991181,SKU_1101,T-shirt,24,27/01/2021,46.02,0.09,paypall,12.8,Online,Not Returned,DHL,Rome,Low,7780,52,Female,United States
+350694,SKU_1057,Wireless Mouse,17,24/08/2021,13.42,0.16,Bank Transfer,13.43,In-store,Not Returned,DHL,Rome,High,3524,38,Female,United Kingdom
+635848,SKU_1656,White Mug,11,19/10/2020,77.98,0.15,paypall,23.57,Online,Not Returned,DHL,Rome,High,3709,50,Male,United Kingdom
+521137,SKU_1234,Backpack,39,17/03/2023,80.41,0.16,Credit Card,10.12,In-store,Not Returned,DHL,Rome,Low,7548,24,Female,China
+844152,SKU_1694,White Mug,47,21/04/2023,62.67,0.17,Credit Card,21.36,Online,Not Returned,DHL,Rome,Medium,7339,54,Female,China
+539030,SKU_1995,Backpack,25,10/03/2021,91.26,0.18,Bank Transfer,20.7,Online,Not Returned,DHL,Rome,Medium,4876,55,Female,China
+706743,SKU_1070,White Mug,15,10/01/2023,33.89,0.31,Bank Transfer,12.38,In-store,Not Returned,DHL,Rome,Low,3861,40,Male,India
+434423,SKU_1101,Headphones,49,13/10/2023,24.24,0.2,paypall,12.29,Online,Not Returned,DHL,Rome,High,8668,52,Female,India
+352764,SKU_1162,Headphones,12,10/04/2020,45.56,0.08,paypall,23.46,Online,Not Returned,DHL,Rome,High,2682,67,Male,India
+433439,SKU_1231,Wireless Mouse,7,01/09/2022,18.65,0.16,Credit Card,19.81,In-store,Not Returned,DHL,Rome,Low,4938,72,Female,India
+860964,SKU_1302,Backpack,33,18/08/2021,12.02,0.43,paypall,14.09,In-store,Not Returned,DHL,Rome,Medium,3710,75,Female,Italy
+860494,SKU_1727,Desk Lamp,38,17/04/2021,28.16,0.05,paypall,9.66,In-store,Not Returned,DHL,Rome,Low,8503,15,Female,Japan
+193392,SKU_1563,Blue Pen,30,24/03/2020,25.33,0.02,Credit Card,26.18,In-store,Not Returned,DHL,Rome,Medium,9711,17,Male,Japan
+120893,SKU_1429,Backpack,13,16/07/2022,93.03,0.28,Credit Card,7.23,In-store,Not Returned,DHL,Rome,High,521,27,Female,Japan
+189743,SKU_1267,Wall Clock,11,17/10/2020,32.79,0.32,Credit Card,24.86,In-store,Not Returned,DHL,Rome,Medium,5665,46,Female,Japan
+531843,SKU_1757,Blue Pen,27,04/01/2020,51.85,0.15,paypall,21.28,Online,Not Returned,DHL,Rome,High,3978,57,Male,Japan
+311945,SKU_1354,T-shirt,23,25/11/2022,26.48,0.07,Credit Card,11.68,Online,Not Returned,DHL,Rome,High,5636,65,Female,Spain
+154708,SKU_1828,Notebook,39,07/03/2024,12.14,0.18,paypall,21.93,Online,Not Returned,DHL,Rome,Medium,5050,34,Female,Brazil
+336444,SKU_1921,Notebook,35,15/03/2020,84.32,0.46,Bank Transfer,20.54,In-store,Returned,DHL,Rome,High,2935,53,Female,Brazil
+181757,SKU_1016,Notebook,25,27/01/2022,10.5,0.15,Bank Transfer,17.57,In-store,Not Returned,DHL,Rome,Medium,6795,25,Male,Canada
+935655,SKU_1211,Office Chair,40,20/05/2021,51.25,0.08,Bank Transfer,25.61,Online,Not Returned,DHL,Rome,Low,4894,49,Male,Canada
+192393,SKU_1504,Desk Lamp,44,01/01/2020,91.12,0.3,Bank Transfer,29.16,Online,Not Returned,DHL,Rome,Medium,4832,59,Female,Canada
+509633,SKU_1087,Blue Pen,17,31/03/2020,35.56,0.25,Credit Card,8.11,In-store,Not Returned,DHL,Rome,Medium,3816,61,Male,France
+439711,SKU_1759,Office Chair,2,24/02/2023,54.85,0.38,Credit Card,8.71,Online,Not Returned,DHL,Rome,Medium,1879,55,Male,Mexico
+241221,SKU_1734,Wall Clock,41,03/05/2021,78.67,0.13,paypall,15.49,Online,Not Returned,DHL,Rome,High,3067,36,Female,Russia
+585319,SKU_1567,Desk Lamp,10,24/08/2020,3.01,0.5,paypall,19.05,Online,Returned,DHL,Rome,Medium,4917,44,Female,Russia
+169893,SKU_1595,Headphones,26,18/06/2020,80.65,0.41,Credit Card,7.85,In-store,Not Returned,DHL,Rome,High,6514,60,Male,Sweden
+803407,SKU_1357,Office Chair,17,02/03/2021,43.65,0.43,paypall,24.08,Online,Returned,DHL,Rome,Low,7899,45,Female,Turkey
+190685,SKU_1634,USB Cable,48,12/08/2023,13.43,0.44,paypall,13.76,Online,Not Returned,DHL,Rome,Low,3250,60,Female,Germany
+139015,SKU_1272,T-shirt,4,28/08/2023,52.74,0.26,Credit Card,5.57,In-store,Returned,DHL,Rome,Low,5769,60,Male,Germany
+129867,SKU_1171,Blue Pen,28,15/06/2020,11.58,0.2,Credit Card,29.62,In-store,Not Returned,DHL,Rome,High,5390,64,Female,Germany
+711272,SKU_1433,Headphones,23,02/09/2021,49.09,0.35,Credit Card,24.23,Online,Not Returned,DHL,Rome,Low,9115,19,Female,Australia
+251171,SKU_1410,Office Chair,29,06/04/2023,5.64,0.21,paypall,27.92,Online,Not Returned,DHL,Rome,Medium,3694,22,Male,Australia
+313440,SKU_1411,Desk Lamp,9,02/12/2020,25.73,0.14,paypall,9.45,In-store,Not Returned,DHL,Rome,Low,1550,18,Female,Netherlands
+214863,SKU_1771,Blue Pen,9,05/02/2021,35.22,0.46,Bank Transfer,9.35,In-store,Not Returned,DHL,Rome,Medium,7594,43,Female,Netherlands
+655997,SKU_1555,Desk Lamp,14,15/10/2023,72.72,0.49,Bank Transfer,21.55,In-store,Not Returned,DHL,Rome,High,8185,70,Female,South Korea
+919802,SKU_1259,Headphones,17,15/05/2021,90.33,0.13,paypall,19.21,In-store,Not Returned,DHL,Rome,High,1075,47,Male,Saudi Arabia
+913713,SKU_1701,Backpack,37,03/12/2021,53.39,0.17,Credit Card,6.36,Online,Not Returned,DHL,Rome,High,2658,17,Male,South Africa
+917559,SKU_1684,Backpack,48,04/11/2021,55.13,0.31,Credit Card,20.17,In-store,Not Returned,DHL,Rome,Low,2941,54,Male,South Africa
+558696,SKU_1736,Wall Clock,16,23/02/2022,48.51,0.27,Bank Transfer,18.28,Online,Returned,DHL,Rome,Medium,7830,72,Male,South Africa
+438637,SKU_1338,Desk Lamp,5,19/04/2021,91.26,0.27,Bank Transfer,26.61,Online,Not Returned,DHL,Rome,Low,2038,23,Male,United States
+161476,SKU_1863,Office Chair,9,17/11/2020,54.37,0.31,Bank Transfer,22.23,Online,Not Returned,DHL,Rome,High,4179,33,Male,United States
+622203,SKU_1082,Wall Clock,23,23/06/2021,40.21,0.12,paypall,15.3,In-store,Not Returned,DHL,Rome,Low,6739,46,Female,United States
+248865,SKU_1891,T-shirt,9,21/04/2024,33.2,0.17,paypall,6.68,Online,Not Returned,DHL,Rome,Medium,9766,71,Female,United States
+894448,SKU_1085,USB Cable,36,23/03/2022,3.63,0.33,Credit Card,21.67,Online,Not Returned,DHL,Rome,High,3374,74,Female,United Kingdom
+350736,SKU_1225,USB Cable,47,07/12/2023,94.95,0.26,Bank Transfer,11.25,In-store,Not Returned,DHL,Rome,High,6471,25,Male,India
+469992,SKU_1697,Wireless Mouse,25,15/02/2022,38.07,0.11,paypall,15.95,Online,Not Returned,DHL,Rome,Medium,8691,31,Female,India
+916698,SKU_1147,White Mug,13,19/04/2020,8.71,0.43,paypall,10.54,In-store,Not Returned,DHL,Rome,Low,694,39,Male,India
+521972,SKU_1903,White Mug,7,06/12/2021,2,0.2,Bank Transfer,28.64,Online,Not Returned,DHL,Rome,Medium,2338,28,Female,Japan
+835062,SKU_1569,Headphones,26,09/10/2023,72.88,0.44,Credit Card,12.47,Online,Not Returned,DHL,Rome,Low,7251,36,Female,Japan
+513368,SKU_1315,T-shirt,20,08/10/2022,52.62,0.31,paypall,15.35,In-store,Not Returned,DHL,Rome,Medium,6834,44,Female,Japan
+114012,SKU_1885,Headphones,39,11/08/2022,86.12,0.41,Credit Card,7.45,Online,Not Returned,DHL,Rome,Low,33,39,Female,Spain
+723345,SKU_1387,Backpack,31,27/08/2021,32.8,0.5,Bank Transfer,13.23,Online,Not Returned,DHL,Rome,High,3781,24,Female,Brazil
+491758,SKU_1700,Wireless Mouse,13,23/06/2022,20.36,0.44,Bank Transfer,20.34,Online,Not Returned,DHL,Rome,High,8663,72,Male,Brazil
+809132,SKU_1148,T-shirt,47,14/06/2023,53.71,0.11,Credit Card,20.95,Online,Returned,DHL,Rome,Medium,2331,25,Female,Canada
+680727,SKU_1723,Desk Lamp,16,05/11/2020,17.11,0.41,paypall,21.19,Online,Returned,DHL,Rome,Medium,5846,38,Female,Canada
+314117,SKU_1312,Wall Clock,47,27/01/2021,8.94,0.28,Bank Transfer,28.04,Online,Not Returned,DHL,Rome,High,164,64,Male,Canada
+207357,SKU_1801,Notebook,37,24/12/2022,42.45,0.27,Credit Card,26.42,Online,Not Returned,DHL,Rome,Medium,3769,18,Female,France
+517540,SKU_1460,Wall Clock,40,25/12/2020,97.59,0.48,Credit Card,9.29,Online,Returned,DHL,Rome,Medium,8284,36,Male,France
+629049,SKU_1024,Notebook,8,18/01/2023,33.92,0.32,paypall,10.29,Online,Not Returned,DHL,Rome,Low,4201,48,Female,France
+376606,SKU_1648,Office Chair,21,17/07/2023,7.68,0.38,paypall,23.81,In-store,Not Returned,DHL,Rome,Medium,3512,63,Male,Mexico
+189930,SKU_1945,Wall Clock,42,05/12/2020,80.82,0.46,Bank Transfer,6.84,Online,Not Returned,DHL,Rome,Medium,2833,70,Male,Mexico
+921405,SKU_1803,Wireless Mouse,37,07/12/2020,45.57,0.05,paypall,28.06,Online,Not Returned,DHL,Rome,High,534,72,Female,Mexico
+168772,SKU_1477,Desk Lamp,21,23/12/2021,25.42,0.18,paypall,21.76,Online,Not Returned,DHL,Rome,Medium,5602,74,Female,Mexico
+361497,SKU_1157,Wireless Mouse,49,19/09/2021,3.89,0.41,paypall,25.44,Online,Not Returned,DHL,Rome,Medium,3021,46,Male,Russia
+841432,SKU_1473,Headphones,16,18/11/2020,85.58,0.04,Bank Transfer,20.53,Online,Not Returned,DHL,Rome,High,2441,62,Male,Russia
+348099,SKU_1058,Headphones,11,05/12/2023,17.99,0.31,Credit Card,11.26,In-store,Not Returned,DHL,Rome,High,6831,71,Male,Russia
+296681,SKU_1390,Wall Clock,48,24/12/2020,47.39,0.37,Credit Card,10.46,Online,Not Returned,DHL,Rome,High,8935,57,Male,Sweden
+168619,SKU_1180,Backpack,12,17/05/2023,82.52,0.44,Bank Transfer,15.18,In-store,Not Returned,DHL,Rome,High,7430,69,Female,Turkey
+380151,SKU_1873,Notebook,14,08/04/2022,71.5,0.09,Credit Card,8.26,Online,Not Returned,DHL,Rome,Low,9110,69,Female,Turkey
+355416,SKU_1651,Office Chair,37,20/03/2020,88.11,0.17,Bank Transfer,8.69,Online,Not Returned,DHL,Rome,Low,7944,26,Female,Germany
+610559,SKU_1743,USB Cable,11,21/06/2020,58.41,0.1,Credit Card,29.62,Online,Not Returned,DHL,Rome,Medium,9180,41,Female,Germany
+386610,SKU_1981,Blue Pen,20,14/08/2021,56.31,0.02,Bank Transfer,17.4,Online,Not Returned,DHL,Rome,High,4288,69,Male,Germany
+823569,SKU_1975,USB Cable,48,27/04/2023,81.84,0.46,Bank Transfer,17.85,Online,Returned,DHL,Rome,Medium,2262,72,Female,Germany
+309229,SKU_1378,Notebook,9,21/03/2023,77.86,0.2,Bank Transfer,7.65,In-store,Not Returned,DHL,Rome,Medium,9684,28,Female,Australia
+757197,SKU_1716,Desk Lamp,38,06/05/2022,73.46,0.36,Credit Card,10.69,Online,Not Returned,DHL,Rome,Low,9573,69,Female,Australia
+133750,SKU_1958,Wireless Mouse,37,06/05/2021,12.02,0.21,Bank Transfer,20.78,In-store,Not Returned,DHL,Rome,Low,710,22,Female,Netherlands
+599097,SKU_1655,Wireless Mouse,10,06/02/2024,90.47,0.18,paypall,18.98,In-store,Not Returned,DHL,Rome,Medium,5320,39,Male,Netherlands
+462981,SKU_1539,USB Cable,1,23/12/2023,67.67,0.13,Credit Card,11.13,Online,Returned,DHL,Rome,Medium,3319,28,Male,South Korea
+280338,SKU_1436,Blue Pen,35,15/02/2023,15.46,0,paypall,13.99,In-store,Not Returned,DHL,Rome,Medium,8680,65,Female,South Korea
+631878,SKU_1783,USB Cable,16,10/02/2024,85.07,0.07,paypall,14.41,In-store,Not Returned,DHL,Rome,High,5334,38,Male,Saudi Arabia
+321120,SKU_1347,Backpack,22,20/12/2020,21.7,0.4,Bank Transfer,15.96,Online,Not Returned,DHL,Rome,High,444,18,Female,South Africa
+517236,SKU_1090,Desk Lamp,33,07/08/2020,86.79,0.2,Credit Card,23.54,Online,Not Returned,DHL,Rome,Low,451,68,Female,South Africa
+394819,SKU_1203,Notebook,2,29/02/2024,61.24,0.37,Credit Card,22.14,In-store,Not Returned,DHL,Rome,Low,9847,16,Male,United States
+853492,SKU_1770,Wireless Mouse,28,05/09/2023,67.26,0.41,paypall,26.86,In-store,Not Returned,DHL,Rome,Low,4704,69,Male,United States
+467440,SKU_1922,T-shirt,35,07/05/2024,5.22,0.2,Bank Transfer,19.82,Online,Not Returned,DHL,Rome,Low,2208,57,Female,United Kingdom
+367808,SKU_1841,White Mug,46,17/04/2023,72.65,0.39,Credit Card,8.63,In-store,Not Returned,DHL,Rome,High,106,63,Female,United Kingdom
+937297,SKU_1891,Office Chair,16,18/06/2024,96.46,0.05,Credit Card,12.15,Online,Not Returned,DHL,Rome,High,6262,66,Female,United Kingdom
+989258,SKU_1499,Wall Clock,17,13/01/2021,97.52,0.43,Credit Card,18.35,Online,Not Returned,DHL,Rome,Low,7158,26,Female,China
+125682,SKU_1140,Notebook,15,12/12/2020,24.99,0.46,Bank Transfer,10.13,In-store,Not Returned,DHL,Rome,Low,1782,36,Male,China
+473905,SKU_1231,Blue Pen,33,21/08/2023,87.1,0.02,Bank Transfer,5.36,Online,Not Returned,DHL,Rome,Low,7554,51,Female,China
+698673,SKU_1838,Desk Lamp,14,23/01/2023,35.53,0.05,Bank Transfer,6.22,In-store,Returned,DHL,Rome,Low,4795,59,Female,China
+282051,SKU_1099,Wireless Mouse,35,12/03/2022,56.94,0.27,paypall,18.31,Online,Not Returned,DHL,Rome,Medium,9960,49,Female,India
+749344,SKU_1991,Wall Clock,27,04/08/2020,75.65,0.27,paypall,19.23,Online,Not Returned,DHL,Rome,High,3609,23,Female,Italy
+715159,SKU_1613,Headphones,12,21/02/2022,44.34,0.14,Credit Card,28.2,Online,Not Returned,DHL,Rome,Medium,2526,25,Female,Japan
+199083,SKU_1239,Notebook,23,22/05/2024,78.19,0.22,Credit Card,11.04,In-store,Not Returned,DHL,Rome,Medium,991,33,Female,Japan
+897369,SKU_1061,USB Cable,22,06/02/2021,39.92,0.03,paypall,18.41,In-store,Not Returned,DHL,Rome,Low,513,16,Female,Spain
+444120,SKU_1605,Wireless Mouse,25,23/06/2021,35.81,0.02,paypall,14.27,In-store,Not Returned,DHL,Rome,Medium,3975,26,Female,Spain
+394542,SKU_1788,Wireless Mouse,43,23/12/2020,2.18,0.24,paypall,22.1,Online,Not Returned,DHL,Rome,Low,2174,36,Female,Spain
+752665,SKU_1600,Blue Pen,12,17/01/2021,65.97,0.13,Bank Transfer,6.69,Online,Not Returned,DHL,Rome,High,1926,56,Female,Spain
+612167,SKU_1065,Backpack,32,07/08/2022,6.81,0.36,Credit Card,12.26,Online,Not Returned,DHL,Rome,High,2487,68,Female,Spain
+443130,SKU_1457,White Mug,32,19/01/2024,4.2,0.1,paypall,23.97,Online,Returned,DHL,Rome,High,3719,33,Female,Brazil
+546642,SKU_1492,Office Chair,17,07/06/2021,9.15,0.12,Bank Transfer,24.3,Online,Not Returned,DHL,Rome,High,3364,61,Female,Brazil
+323656,SKU_1772,Blue Pen,8,12/01/2022,43.25,0.04,Credit Card,26.31,Online,Not Returned,DHL,Rome,Low,7337,22,Female,Canada
+688099,SKU_1806,T-shirt,23,09/06/2021,16.86,0.25,paypall,23.24,In-store,Not Returned,DHL,Rome,Medium,9108,32,Female,Canada
+583768,SKU_1509,Office Chair,28,20/12/2023,55.7,0.15,Credit Card,10.48,Online,Not Returned,DHL,Rome,Medium,6948,73,Female,Canada
+959414,SKU_1996,Wall Clock,42,05/06/2021,38.32,0.4,Bank Transfer,26.59,Online,Not Returned,DHL,Rome,Medium,9837,58,Male,France
+381466,SKU_1012,Desk Lamp,37,18/04/2022,76.92,0.42,paypall,26.27,In-store,Not Returned,DHL,Rome,Low,9016,42,Female,Mexico
+244063,SKU_1231,White Mug,1,17/03/2023,33.09,0.33,Bank Transfer,23.29,Online,Not Returned,DHL,Rome,Low,4332,64,Male,Mexico
+314514,SKU_1471,Notebook,22,08/11/2020,81.29,0.26,Bank Transfer,9.52,Online,Not Returned,DHL,Rome,Medium,8013,22,Female,Russia
+447983,SKU_1627,Headphones,19,11/07/2022,99.59,0.15,Bank Transfer,17.79,In-store,Not Returned,DHL,Rome,Medium,8093,29,Female,Russia
+930914,SKU_1425,Office Chair,32,22/08/2023,94.46,0.19,Bank Transfer,12.65,Online,Not Returned,DHL,Rome,Low,1277,27,Female,Sweden
+417155,SKU_1347,Desk Lamp,5,09/06/2021,19.88,0.39,paypall,17.81,In-store,Not Returned,DHL,Rome,High,6566,49,Female,Turkey
+625087,SKU_1522,T-shirt,18,02/10/2022,98.46,0.48,Credit Card,24.9,In-store,Not Returned,DHL,Rome,Medium,7701,53,Female,Turkey
+261825,SKU_1686,Headphones,38,23/05/2020,20.23,0.02,Credit Card,10.97,In-store,Not Returned,DHL,Rome,Medium,8933,74,Male,Turkey
+192529,SKU_1305,USB Cable,16,08/12/2023,40.76,0.15,paypall,15.42,In-store,Not Returned,DHL,Rome,Low,3134,62,Female,Germany
+113767,SKU_1908,Blue Pen,8,06/09/2020,14.34,0.35,paypall,18.59,Online,Not Returned,DHL,Rome,Low,9207,70,Male,Germany
+462416,SKU_1399,Notebook,18,15/10/2021,54.96,0.25,Bank Transfer,9.55,In-store,Not Returned,DHL,Rome,High,7105,71,Female,Germany
+487405,SKU_1673,T-shirt,1,16/02/2024,9.92,0.23,Bank Transfer,20.45,Online,Returned,DHL,Rome,High,6375,35,Female,Australia
+651050,SKU_1176,Blue Pen,45,02/12/2021,44.26,0.16,Credit Card,15.12,Online,Not Returned,DHL,Rome,Low,4109,36,Female,Australia
+185643,SKU_1997,Wireless Mouse,17,29/08/2021,19.16,0.4,Credit Card,11.72,In-store,Not Returned,DHL,Rome,Medium,6042,72,Male,Australia
+878119,SKU_1411,Headphones,17,29/05/2021,31.06,0.45,Credit Card,26.42,In-store,Not Returned,DHL,Rome,High,4662,43,Male,South Korea
+963498,SKU_1628,T-shirt,28,30/03/2024,59.67,0.39,paypall,8.51,Online,Not Returned,DHL,Rome,High,7228,29,Female,Saudi Arabia
+415050,SKU_1684,Blue Pen,23,02/01/2023,19.59,0.09,Bank Transfer,8.88,In-store,Not Returned,DHL,Rome,Medium,7367,43,Male,Saudi Arabia
+394956,SKU_1190,Wireless Mouse,13,10/04/2024,73.43,0.25,Credit Card,26.74,Online,Not Returned,DHL,Rome,Medium,2538,60,Female,Saudi Arabia
+837950,SKU_1214,Headphones,15,30/04/2022,33.33,0.02,paypall,27.72,Online,Not Returned,DHL,Rome,High,7842,29,Female,South Africa
+245468,SKU_1540,Wall Clock,20,08/04/2020,25.21,0.32,paypall,11.58,In-store,Not Returned,DHL,Rome,Low,6919,46,Female,South Africa
+614633,SKU_1817,USB Cable,5,17/08/2021,41.02,0.33,paypall,14.92,In-store,Not Returned,DHL,Rome,Low,1856,51,Female,South Africa
